@@ -23,7 +23,7 @@ class BasicWidget extends StatelessWidget {
             )
           ]),
       child: Center(
-        child: Text("Mushri"),
+        child: Text("Arshad"),
       ),
     );
   }
